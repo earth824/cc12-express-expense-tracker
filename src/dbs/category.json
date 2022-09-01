@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Transportation",
+    "type": "EXPENSE",
+    "id": "26a36d23-7c84-4430-8f06-8b74aed93645"
+  },
+  {
+    "title": "Food",
+    "type": "EXPENSE",
+    "id": "cd123893-4451-45d2-8d37-652ba6c66ef3"
+  }
+]
